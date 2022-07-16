@@ -1,5 +1,9 @@
 console.log("tut 30");
 
+//Syntax
+// Object.create(proto)
+// Object.create(proto, propertiesObject)
+
 // function Obj(givenName) {
 //   this.name = givenName;
 // }
